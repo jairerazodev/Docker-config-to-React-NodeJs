@@ -1,6 +1,6 @@
 # :whale: Docker-config-to-React-NodeJs
 
-### Dockerfile for a React container using the latest Ubuntu image and sets up a development environment with Node.js
+Dockerfile for a React container using the latest Ubuntu image and sets up a development environment with Node.js
 
 To create a Bash script that generates a Dockerfile for a React container using the latest Ubuntu image and sets up a development environment with Node.js, you can use the following script:
 
@@ -43,7 +43,7 @@ To use the script, save it to a file (e.g. create-qwik-app.sh) and make it execu
 
     chmod +x create-qwik-app.sh
 
-### Then, run the script with the following command:
+Then, run the script with the following command:
 
     ./create-qwik-app.sh
 
